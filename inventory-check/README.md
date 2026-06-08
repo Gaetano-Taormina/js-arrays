@@ -17,3 +17,4 @@
 
 * declare products array;
 * declare quantities array.
+
